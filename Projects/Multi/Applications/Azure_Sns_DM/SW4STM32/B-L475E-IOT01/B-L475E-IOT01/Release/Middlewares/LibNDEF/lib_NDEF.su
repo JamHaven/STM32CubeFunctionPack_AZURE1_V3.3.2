@@ -1,0 +1,4 @@
+lib_NDEF.c:167:17:NDEF_ParseRecordHeader	48	static
+lib_NDEF.c:366:10:NDEF_IdentifyNDEF	40	static
+lib_NDEF.c:478:10:NDEF_ReadNDEF	8	static
+lib_NDEF.c:506:10:NDEF_WriteNDEF	8	static

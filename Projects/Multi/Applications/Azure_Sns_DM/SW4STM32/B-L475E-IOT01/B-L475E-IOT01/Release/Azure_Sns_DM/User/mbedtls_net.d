@@ -1,0 +1,58 @@
+Azure_Sns_DM/User/mbedtls_net.o: \
+ C:/Users/jamha/Downloads/en.fp-cld-azure1/STM32CubeFunctionPack_AZURE1_V3.3.2/Projects/Multi/Applications/Azure_Sns_DM/Src/mbedtls_net.c \
+ ../../../../Inc/mbedtls_net.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/ssl.h \
+ ../../../../Inc/mbedtls_config.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/check_config.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/bignum.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/ecp.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/ssl_ciphersuites.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/pk.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/md.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/rsa.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/cipher.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/x509_crt.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/x509.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/asn1.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/x509_crl.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/ecdh.h \
+ ../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/platform_time.h \
+ ../../../../Inc/net.h ../../../../Inc/msg.h
+
+../../../../Inc/mbedtls_net.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/ssl.h:
+
+../../../../Inc/mbedtls_config.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/check_config.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/bignum.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/ecp.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/ssl_ciphersuites.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/pk.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/md.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/rsa.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/cipher.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/x509_crt.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/x509.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/asn1.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/x509_crl.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/ecdh.h:
+
+../../../../../../../../Middlewares/Third_Parties/mbedtls/include/mbedtls/platform_time.h:
+
+../../../../Inc/net.h:
+
+../../../../Inc/msg.h:

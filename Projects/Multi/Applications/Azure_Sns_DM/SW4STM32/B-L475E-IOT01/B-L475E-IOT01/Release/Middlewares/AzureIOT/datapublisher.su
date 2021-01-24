@@ -1,0 +1,16 @@
+datapublisher.c:372:13:reportedPropertyExistsByPath	8	static
+datapublisher.c:285:23:DataPublisher_CancelTransaction.part.0	16	static
+datapublisher.c:17:1:DATA_PUBLISHER_RESULTStrings	0	static
+datapublisher.c:17:1:DATA_PUBLISHER_RESULT_FromString	24	static
+datapublisher.c:46:23:DataPublisher_Create	16	static
+datapublisher.c:84:6:DataPublisher_Destroy	8	static
+datapublisher.c:95:20:DataPublisher_StartTransaction	8	static
+datapublisher.c:126:23:DataPublisher_PublishTransacted	56	static
+datapublisher.c:238:23:DataPublisher_EndTransaction	24	static
+datapublisher.c:285:23:DataPublisher_CancelTransaction	0	static
+datapublisher.c:321:6:DataPublisher_SetMaxBufferSize	0	static
+datapublisher.c:327:8:DataPublisher_GetMaxBufferSize	0	static
+datapublisher.c:332:40:DataPublisher_CreateTransaction_ReportedProperties	16	static
+datapublisher.c:378:23:DataPublisher_PublishTransacted_ReportedProperty	32	static
+datapublisher.c:502:23:DataPublisher_CommitTransaction_ReportedProperties	16	static
+datapublisher.c:546:6:DataPublisher_DestroyTransaction_ReportedProperties	24	static

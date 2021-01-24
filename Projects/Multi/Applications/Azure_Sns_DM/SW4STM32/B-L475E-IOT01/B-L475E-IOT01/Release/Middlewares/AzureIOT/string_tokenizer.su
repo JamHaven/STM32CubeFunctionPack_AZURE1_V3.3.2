@@ -1,0 +1,4 @@
+string_tokenizer.c:38:32:STRING_TOKENIZER_create_from_char	24	static
+string_tokenizer.c:19:25:STRING_TOKENIZER_create	8	static
+string_tokenizer.c:69:5:STRING_TOKENIZER_get_next_token	48	static
+string_tokenizer.c:191:6:STRING_TOKENIZER_destroy	8	static

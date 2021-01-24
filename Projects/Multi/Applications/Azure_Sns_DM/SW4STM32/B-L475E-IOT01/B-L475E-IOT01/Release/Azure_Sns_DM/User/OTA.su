@@ -1,0 +1,6 @@
+OTA.c:122:6:CleanBeforeRestart	8	static
+OTA.c:136:6:ReWriteSizeOfUpdate	0	static
+OTA.c:146:10:ReadRemSizeOfUpdate	0	static
+OTA.c:156:8:CheckBootLoaderCompliance	16	static
+OTA.c:356:8:UpdateFWBlueMS	96	static
+OTA.c:474:6:StartUpdateFWBlueMS	40	static

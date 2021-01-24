@@ -1,0 +1,3 @@
+methodreturn.c:22:21:MethodReturn_Create	16	static
+methodreturn.c:69:6:MethodReturn_Destroy	8	static
+methodreturn.c:88:26:MethodReturn_GetReturn	0	static

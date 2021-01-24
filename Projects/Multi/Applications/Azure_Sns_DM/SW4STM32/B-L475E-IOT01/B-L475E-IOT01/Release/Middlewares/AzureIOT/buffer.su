@@ -1,0 +1,17 @@
+buffer.c:20:15:BUFFER_new	8	static
+buffer.c:56:15:BUFFER_create	24	static
+buffer.c:95:6:BUFFER_delete	8	static
+buffer.c:113:5:BUFFER_build	16	static
+buffer.c:165:5:BUFFER_append_build	24	static
+buffer.c:221:5:BUFFER_pre_build	16	static
+buffer.c:262:5:BUFFER_content	0	static
+buffer.c:281:12:BUFFER_unbuild	8	static
+buffer.c:310:5:BUFFER_enlarge	16	static
+buffer.c:345:5:BUFFER_shrink	32	static
+buffer.c:414:5:BUFFER_size	0	static
+buffer.c:432:5:BUFFER_append	16	static
+buffer.c:486:5:BUFFER_prepend	32	static
+buffer.c:544:5:BUFFER_fill	0	static
+buffer.c:569:16:BUFFER_u_char	0	static
+buffer.c:587:8:BUFFER_length	0	static
+buffer.c:603:15:BUFFER_clone	16	static

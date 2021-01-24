@@ -1,0 +1,16 @@
+net.c:61:5:net_init	24	static
+net.c:133:5:net_deinit	16	static
+net.c:185:5:net_reinit	8	static
+net.c:232:5:net_get_ip_address	16	static
+net.c:311:5:net_get_mac_address	16	static
+net.c:370:5:net_get_hostaddress	16	static
+net.c:435:5:net_sock_create	8	static
+net.c:473:5:net_sock_open	4	static
+net.c:480:5:net_sock_setopt	32	static
+net.c:586:5:net_sock_recv	0	static
+net.c:593:5:net_sock_recvfrom	4	static
+net.c:600:5:net_sock_send	0	static
+net.c:607:5:net_sock_sendto	4	static
+net.c:614:5:net_sock_close	0	static
+net.c:621:5:net_sock_destroy	0	static
+net.c:638:9:net_timeout_left_ms	0	static

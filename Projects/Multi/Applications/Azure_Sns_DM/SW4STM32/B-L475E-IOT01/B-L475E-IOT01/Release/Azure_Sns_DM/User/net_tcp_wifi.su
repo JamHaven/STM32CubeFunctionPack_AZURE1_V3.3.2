@@ -1,0 +1,8 @@
+net_tcp_wifi.c:402:5:net_sock_destroy_tcp_wifi	8	static
+net_tcp_wifi.c:120:5:net_sock_open_wifi	48	static
+net_tcp_wifi.c:209:5:net_sock_recv_tcp_wifi	48	static
+net_tcp_wifi.c:258:5:net_sock_recvfrom_udp_wifi	72	static
+net_tcp_wifi.c:315:5:net_sock_send_tcp_wifi	40	static
+net_tcp_wifi.c:346:5:net_sock_sendto_udp_wifi	48	static
+net_tcp_wifi.c:388:5:net_sock_close_tcp_wifi	8	static
+net_tcp_wifi.c:72:5:net_sock_create_wifi	24	static

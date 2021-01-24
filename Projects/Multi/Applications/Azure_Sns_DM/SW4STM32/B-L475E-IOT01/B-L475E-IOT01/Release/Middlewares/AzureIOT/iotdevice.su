@@ -1,0 +1,17 @@
+iotdevice.c:33:31:DeviceInvokeAction	24	static
+iotdevice.c:55:28:DeviceInvokeMethod	24	static
+iotdevice.c:31:1:DEVICE_RESULTStrings	0	static
+iotdevice.c:31:1:DEVICE_RESULT_FromString	24	static
+iotdevice.c:74:15:Device_Create	40	static
+iotdevice.c:140:6:Device_Destroy	8	static
+iotdevice.c:154:20:Device_StartTransaction	0	static
+iotdevice.c:177:15:Device_PublishTransacted	8	static
+iotdevice.c:207:15:Device_EndTransaction	8	static
+iotdevice.c:237:15:Device_CancelTransaction	8	static
+iotdevice.c:263:24:Device_ExecuteCommand	0	static
+iotdevice.c:284:21:Device_ExecuteMethod	0	static
+iotdevice.c:303:40:Device_CreateTransaction_ReportedProperties	0	static
+iotdevice.c:334:15:Device_PublishTransacted_ReportedProperty	8	static
+iotdevice.c:368:15:Device_CommitTransaction_ReportedProperties	8	static
+iotdevice.c:404:6:Device_DestroyTransaction_ReportedProperties	0	static
+iotdevice.c:418:15:Device_IngestDesiredProperties	16	static

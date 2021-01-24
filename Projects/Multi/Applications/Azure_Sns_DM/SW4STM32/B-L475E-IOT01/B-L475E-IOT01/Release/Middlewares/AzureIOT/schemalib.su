@@ -1,0 +1,5 @@
+schemalib.c:17:1:SERIALIZER_RESULTStrings	0	static
+schemalib.c:17:1:SERIALIZER_RESULT_FromString	24	static
+schemalib.c:27:19:serializer_init	8	static
+schemalib.c:60:6:serializer_deinit	8	static
+schemalib.c:72:19:serializer_setconfig	8	static

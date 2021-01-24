@@ -1,0 +1,7 @@
+usha.c:30:5:USHAReset	0	static
+usha.c:68:5:USHAInput	0	static
+usha.c:114:5:USHAFinalBits	0	static
+usha.c:160:5:USHAResult	0	static
+usha.c:198:5:USHABlockSize	0	static
+usha.c:225:5:USHAHashSize	0	static
+usha.c:252:5:USHAHashSizeBits	0	static

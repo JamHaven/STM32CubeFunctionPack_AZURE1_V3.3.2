@@ -1,0 +1,5 @@
+agenttime_STM32Cube.c:50:8:get_time	0	static
+agenttime_STM32Cube.c:60:12:get_gmtime	0	static
+agenttime_STM32Cube.c:70:8:get_mktime	0	static
+agenttime_STM32Cube.c:80:7:get_ctime	0	static
+agenttime_STM32Cube.c:91:8:get_difftime	0	static

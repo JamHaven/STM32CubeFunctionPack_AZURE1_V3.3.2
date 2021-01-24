@@ -1,0 +1,11 @@
+sha224.c:450:13:SHA224_256ProcessMessageBlock	336	static
+sha224.c:395:13:SHA224_256PadMessage	16	static
+sha224.c:580:12:SHA224_256ResultN.part.0	24	static
+sha224.c:108:5:SHA224Reset	8	static
+sha224.c:182:5:SHA224Result	0	static
+sha224.c:202:5:SHA256Reset	8	static
+sha224.c:226:5:SHA256Input	32	static
+sha224.c:133:5:SHA224Input	0	static
+sha224.c:278:5:SHA256FinalBits	32	static
+sha224.c:158:5:SHA224FinalBits	0	static
+sha224.c:335:5:SHA256Result	0	static

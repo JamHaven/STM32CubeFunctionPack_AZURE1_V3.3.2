@@ -1,0 +1,6 @@
+jsonencoder.c:15:1:JSON_ENCODER_TOSTRING_RESULTStrings	0	static
+jsonencoder.c:15:1:JSON_ENCODER_TOSTRING_RESULT_FromString	24	static
+jsonencoder.c:16:1:JSON_ENCODER_RESULTStrings	0	static
+jsonencoder.c:16:1:JSON_ENCODER_RESULT_FromString	24	static
+jsonencoder.c:18:21:JSONEncoder_EncodeTree	64	static
+jsonencoder.c:193:30:JSONEncoder_CharPtr_ToString	8	static

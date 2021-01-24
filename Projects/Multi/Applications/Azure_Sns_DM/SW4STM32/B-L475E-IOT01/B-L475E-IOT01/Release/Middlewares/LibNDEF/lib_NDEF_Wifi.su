@@ -1,0 +1,2 @@
+lib_NDEF_Wifi.c:165:10:NDEF_ReadWifiToken	32	static
+lib_NDEF_Wifi.c:192:10:NDEF_WriteWifiToken	96	static

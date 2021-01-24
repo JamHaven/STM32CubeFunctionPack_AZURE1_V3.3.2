@@ -1,0 +1,12 @@
+mqtt_message.c:25:21:mqttmessage_create_in_place	32	static
+mqtt_message.c:64:21:mqttmessage_create	32	static
+mqtt_message.c:123:6:mqttmessage_destroy	8	static
+mqtt_message.c:142:21:mqttmessage_clone	24	static
+mqtt_message.c:165:10:mqttmessage_getPacketId	0	static
+mqtt_message.c:183:13:mqttmessage_getTopicName	0	static
+mqtt_message.c:208:11:mqttmessage_getQosType	0	static
+mqtt_message.c:226:6:mqttmessage_getIsDuplicateMsg	0	static
+mqtt_message.c:244:6:mqttmessage_getIsRetained	0	static
+mqtt_message.c:262:5:mqttmessage_setIsDuplicateMsg	0	static
+mqtt_message.c:281:5:mqttmessage_setIsRetained	0	static
+mqtt_message.c:300:20:mqttmessage_getApplicationMsg	0	static

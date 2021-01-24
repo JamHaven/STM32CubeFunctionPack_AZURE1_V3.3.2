@@ -1,0 +1,10 @@
+iothub_client_authorization.c:53:29:IoTHubClient_Auth_Create	24	static
+iothub_client_authorization.c:125:29:IoTHubClient_Auth_CreateFromDeviceAuth	0	static
+iothub_client_authorization.c:180:6:IoTHubClient_Auth_Destroy	8	static
+iothub_client_authorization.c:196:24:IoTHubClient_Auth_Set_x509_Type	0	static
+iothub_client_authorization.c:228:5:IoTHubClient_Auth_Set_xio_Certificate	0	static
+iothub_client_authorization.c:276:24:IoTHubClient_Auth_Get_Credential_Type	0	static
+iothub_client_authorization.c:293:7:IoTHubClient_Auth_Get_SasToken	32	static
+iothub_client_authorization.c:414:13:IoTHubClient_Auth_Get_DeviceId	0	static
+iothub_client_authorization.c:431:13:IoTHubClient_Auth_Get_DeviceKey	0	static
+iothub_client_authorization.c:448:18:IoTHubClient_Auth_Is_SasToken_Valid	8	static

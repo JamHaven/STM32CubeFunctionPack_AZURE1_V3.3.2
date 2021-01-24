@@ -1,0 +1,17 @@
+pk_wrap.c:63:12:rsa_can_do	0	static
+pk_wrap.c:69:15:rsa_get_bitlen	0	static
+pk_wrap.c:163:13:rsa_debug	4	static
+pk_wrap.c:196:12:eckey_can_do	0	static
+pk_wrap.c:203:15:eckey_get_bitlen	0	static
+pk_wrap.c:279:13:eckey_debug	0	static
+pk_wrap.c:309:12:eckeydh_can_do	0	static
+pk_wrap.c:157:13:rsa_free_wrap	8	static
+pk_wrap.c:147:14:rsa_alloc_wrap	8	static
+pk_wrap.c:141:12:rsa_check_pair_wrap	0	static
+pk_wrap.c:127:12:rsa_encrypt_wrap	16	static
+pk_wrap.c:115:12:rsa_decrypt_wrap	16	static
+pk_wrap.c:99:12:rsa_sign_wrap	12	static
+pk_wrap.c:74:12:rsa_verify_wrap	40	static
+pk_wrap.c:273:13:eckey_free_wrap	8	static
+pk_wrap.c:263:14:eckey_alloc_wrap	8	static
+pk_wrap.c:257:12:eckey_check_pair	0	static

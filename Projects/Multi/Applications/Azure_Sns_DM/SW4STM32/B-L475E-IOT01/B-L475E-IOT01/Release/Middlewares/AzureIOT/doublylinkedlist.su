@@ -1,0 +1,7 @@
+doublylinkedlist.c:7:1:DList_InitializeListHead	0	static
+doublylinkedlist.c:17:1:DList_IsListEmpty	0	static
+doublylinkedlist.c:27:1:DList_RemoveEntryList	0	static
+doublylinkedlist.c:46:1:DList_RemoveHeadList	0	static
+doublylinkedlist.c:66:1:DList_InsertTailList	0	static
+doublylinkedlist.c:84:1:DList_AppendTailList	0	static
+doublylinkedlist.c:101:6:DList_InsertHeadList	0	static

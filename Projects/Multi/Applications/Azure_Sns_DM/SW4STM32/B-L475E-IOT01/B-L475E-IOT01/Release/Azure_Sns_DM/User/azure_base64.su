@@ -1,0 +1,6 @@
+base64.c:15:13:base64char.part.0	0	static
+base64.c:236:22:Base64_Encode_Internal	56	static
+base64.c:60:12:base64toValue	0	static
+base64.c:187:15:Base64_Decoder	48	static
+base64.c:316:15:Base64_Encode_Bytes	0	static
+base64.c:336:15:Base64_Encoder	16	static

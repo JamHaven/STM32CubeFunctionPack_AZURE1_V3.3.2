@@ -1,0 +1,8 @@
+jsondecoder.c:24:13:NoFreeFunction	0	static
+jsondecoder.c:29:12:NOPCloneFunction	0	static
+jsondecoder.c:43:28:ParseString.part.0	16	static
+jsondecoder.c:423:28:ParseArray	64	static
+jsondecoder.c:219:28:ParseValue	24	static
+jsondecoder.c:367:28:ParseObject	32	static
+jsondecoder.c:35:6:SkipWhiteSpaces	4	static
+jsondecoder.c:574:21:JSONDecoder_JSON_To_MultiTree	32	static

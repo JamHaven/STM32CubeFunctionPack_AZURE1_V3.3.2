@@ -1,0 +1,8 @@
+datamarshaller.c:28:12:NoCloneFunction	0	static
+datamarshaller.c:34:13:NoFreeFunction	0	static
+datamarshaller.c:17:1:DATA_MARSHALLER_RESULTStrings	0	static
+datamarshaller.c:17:1:DATA_MARSHALLER_RESULT_FromString	24	static
+datamarshaller.c:39:24:DataMarshaller_Create	16	static
+datamarshaller.c:65:6:DataMarshaller_Destroy	0	static
+datamarshaller.c:76:24:DataMarshaller_SendData	32	static
+datamarshaller.c:220:24:DataMarshaller_SendData_ReportedProperties	64	static

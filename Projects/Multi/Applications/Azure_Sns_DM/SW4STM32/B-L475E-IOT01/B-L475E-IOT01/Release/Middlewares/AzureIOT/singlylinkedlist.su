@@ -1,0 +1,10 @@
+singlylinkedlist.c:22:25:singlylinkedlist_create	8	static
+singlylinkedlist.c:38:6:singlylinkedlist_destroy	8	static
+singlylinkedlist.c:57:18:singlylinkedlist_add	16	static
+singlylinkedlist.c:100:5:singlylinkedlist_remove	8	static
+singlylinkedlist.c:159:18:singlylinkedlist_get_head_item	0	static
+singlylinkedlist.c:181:18:singlylinkedlist_get_next_item	0	static
+singlylinkedlist.c:200:13:singlylinkedlist_item_get_value	0	static
+singlylinkedlist.c:219:18:singlylinkedlist_find	16	static
+singlylinkedlist.c:264:5:singlylinkedlist_remove_if	40	static
+singlylinkedlist.c:330:5:singlylinkedlist_foreach	32	static

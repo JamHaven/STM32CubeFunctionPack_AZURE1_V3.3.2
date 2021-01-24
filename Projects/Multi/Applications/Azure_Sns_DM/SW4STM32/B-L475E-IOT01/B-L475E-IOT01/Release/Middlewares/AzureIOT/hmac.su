@@ -1,0 +1,7 @@
+hmac.c:72:5:hmacReset.part.0	328	static
+hmac.c:211:5:hmacResult.part.1	16	static
+hmac.c:41:5:hmac	392	static
+hmac.c:72:5:hmacReset	0	static
+hmac.c:154:5:hmacInput	0	static
+hmac.c:181:5:hmacFinalBits	0	static
+hmac.c:211:5:hmacResult	0	static

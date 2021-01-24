@@ -1,0 +1,11 @@
+sha384-512.c:729:13:SHA384_512ProcessMessageBlock	872	static
+sha384-512.c:642:13:SHA384_512PadMessage	16	static
+sha384-512.c:1009:12:SHA384_512ResultN.part.1	24	static
+sha384-512.c:342:5:SHA384Reset	8	static
+sha384-512.c:418:5:SHA384Result	0	static
+sha384-512.c:439:5:SHA512Reset	8	static
+sha384-512.c:464:5:SHA512Input	40	static
+sha384-512.c:367:5:SHA384Input	0	static
+sha384-512.c:517:5:SHA512FinalBits	64	static
+sha384-512.c:393:5:SHA384FinalBits	0	static
+sha384-512.c:611:5:SHA512Result	0	static

@@ -1,0 +1,4 @@
+sastoken.c:205:22:construct_sas_token	88	static
+sastoken.c:37:6:SASToken_Validate	40	static
+sastoken.c:305:15:SASToken_Create	24	static
+sastoken.c:328:15:SASToken_CreateString	4	static

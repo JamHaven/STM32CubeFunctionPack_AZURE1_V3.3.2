@@ -1,0 +1,10 @@
+xio.c:207:14:xio_CloneOption	8	static
+xio.c:169:5:xio_setoption	24	static
+xio.c:234:13:xio_DestroyOption	8	static
+xio.c:19:12:xio_create	24	static
+xio.c:60:6:xio_destroy	8	static
+xio.c:75:5:xio_open	32	static
+xio.c:104:5:xio_close	8	static
+xio.c:133:5:xio_send	4	static
+xio.c:157:6:xio_dowork	0	static
+xio.c:256:22:xio_retrieveoptions	16	static

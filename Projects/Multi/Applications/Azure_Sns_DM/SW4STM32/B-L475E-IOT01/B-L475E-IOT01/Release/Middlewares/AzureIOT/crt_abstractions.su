@@ -1,0 +1,11 @@
+crt_abstractions.c:48:5:strcat_s	24	static
+crt_abstractions.c:110:5:strncpy_s	24	static
+crt_abstractions.c:179:5:strcpy_s	16	static
+crt_abstractions.c:222:5:sprintf_s	24	static
+crt_abstractions.c:290:20:strtoull_s	48	static
+crt_abstractions.c:460:26:splitFloatString	64	static
+crt_abstractions.c:558:7:strtof_s	64	static
+crt_abstractions.c:620:13:strtold_s	64	static
+crt_abstractions.c:681:5:mallocAndStrcpy_s	24	static
+crt_abstractions.c:726:5:unsignedIntToString	16	static
+crt_abstractions.c:777:5:size_tToString	16	static

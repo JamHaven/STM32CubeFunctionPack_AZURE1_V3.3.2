@@ -1,0 +1,4 @@
+STM32CubeRTCInterface.c:56:5:TimingSystemSetSystemTime	72	static
+STM32CubeRTCInterface.c:105:6:RTC_CalendarShow	48	static
+STM32CubeRTCInterface.c:128:9:TimingSystemGetSystemTime	40	static
+STM32CubeRTCInterface.c:164:8:SynchronizationAgentConvertNTPTime2EpochTime	0	static

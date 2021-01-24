@@ -1,0 +1,10 @@
+constmap.c:13:1:CONSTMAP_RESULTStrings	0	static
+constmap.c:13:1:CONSTMAP_RESULT_FromString	24	static
+constmap.c:24:17:ConstMap_Create	16	static
+constmap.c:50:6:ConstMap_Destroy	8	static
+constmap.c:70:17:ConstMap_Clone	0	static
+constmap.c:107:12:ConstMap_CloneWriteable	0	static
+constmap.c:125:6:ConstMap_ContainsKey	16	static
+constmap.c:154:6:ConstMap_ContainsValue	16	static
+constmap.c:182:13:ConstMap_GetValue	0	static
+constmap.c:208:17:ConstMap_GetInternals	8	static
